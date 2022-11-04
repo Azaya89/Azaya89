@@ -1,20 +1,20 @@
 # 👋 Hi, I’m @Azaya89
 
 ##  👀 What am I interested in?
-- Python 
-- Data Analysis
-- Data Visualisation
+- Python 🐍
+- Data Analysis 📉
+- Data Visualisation 📊
 
 ## 🌱 What am I currently Learning?
--  Data Sourcing 
--  APIs 
--  Data Analysis
--  Data Visualisation
+-  Data Sourcing 🔎
+-  APIs 💻
+-  Data Analysis 📈
+-  Data Visualisation 📊
 
 ## 💞️ What am I looking for?
--  Collaboration on open source data analytics projects 
--  Research
--  Internships
+-  Collaboration on open source data analytics projects 👫
+-  Research 🔍
+-  Internships 🧒
   
 ## 📫 How to reach me 
 -  [LinkedIn](https://www.linkedin.com/in/isaiah-akorita/)
