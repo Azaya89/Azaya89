@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Azaya89
+# 👋 Hi, I’m Isaiah Akorita.
 
 ##  👀 What am I interested in?
 - Python 🐍
