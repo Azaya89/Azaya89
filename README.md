@@ -27,10 +27,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
  </a></li>
  <li><a href="https://twitter.com/AkoritaI">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter logo" />
  </a></li>
   <li><a href="mailto:akoritaisaiah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?logo=Gmail&logoColor=orange&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&logoColor=EA4335&style=for-the-badge" />
   </a></li>
 </ul>
 
