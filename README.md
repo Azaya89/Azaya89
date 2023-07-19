@@ -21,7 +21,7 @@
   
   ![Azaya's github stats](https://github-readme-stats.vercel.app/api?username=azaya89)
  
-## 📫 How to reach me 
+## 📫 You can reach me via:
 <ul>
  <li><a href="https://www.linkedin.com/in/isaiah-akorita/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
