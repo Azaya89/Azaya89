@@ -28,7 +28,7 @@
  <a href="https://twitter.com/AkoritaI">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />
  </a>
-  <a href="akoritaisaiah@gmail.com">
+  <a href="mailto:akoritaisaiah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?logo=Gmail&logoColor=orange&style=for-the-badge" />
   </a>
 </div>
