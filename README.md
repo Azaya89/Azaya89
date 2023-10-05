@@ -19,7 +19,8 @@
   
 ## 🔥 My stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azaya89&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaya89&layout=compact&theme=vision-friendly-dark)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaya89&layout=compact&theme=vision-friendly-dark)
  
 ## 📫 You can reach me via:
 <ul>
