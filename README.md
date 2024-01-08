@@ -6,10 +6,10 @@
 - Data visualisation 📊
 
 ## 🌱 What am I currently Learning?
--  Data sourcing 🔎
 -  APIs 💻
 -  Data analysis 📈
 -  Data visualisation 📊
+-  AI/ML 🤖
 
 ## 👀 What am I looking for?
 -  Collaboration on open source data analytics projects 👫
