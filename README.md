@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Isaiah Akorita 👨‍💻
+# 👋 Hi, I’m Isaiah Akorita ![Panel Hero](https://img.shields.io/badge/Panel-Hero-blue) 👨‍💻
 
 ## 🧠  What am I interested in?
 - Python development <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width=20 />
